@@ -21,7 +21,7 @@
     {
       "text": "tasktest",
       "day": "May 7th",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]
